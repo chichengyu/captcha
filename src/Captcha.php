@@ -65,7 +65,7 @@
 			imagedestroy($image);
 		}
 		//由于生成随机字符的代码很多,便于维护,重开一个函数
-		public function makeCode(){
+		protected function makeCode(){
 			// range — 建立一个包含指定范围单元的数组 
 			// 大写字母
 			$upper = range('A','Z');
