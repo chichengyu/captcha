@@ -1,5 +1,5 @@
 <?php 
-
+	namespace think;
 	class Upload{
 
 		private $upload_dir = 'upload/';//上传目录

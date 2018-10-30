@@ -2,6 +2,8 @@
 /*
 	使用curl扩展出的httprequest或post请求
 */
+	namespace think;
+
 	class HttpRequest{
 		// url 请求的服务器地址
 		private $url = '';

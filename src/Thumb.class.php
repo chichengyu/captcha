@@ -1,4 +1,5 @@
 <?php 
+	namespace think;
 	class Thumb{
 		private $file;//图像文件
 		private $thumb_path = 'thumb/';//压缩后的文件保存路径
