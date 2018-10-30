@@ -1,5 +1,5 @@
 {
-    "name": "xiaochi/captcha",
+    "name": "think/captcha",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         "php":">=5.6.0"
     },
     "autoload":{
-    		"Xiaochi\\":"src"
+    		"think\\":"src"
     	}
     }
 }

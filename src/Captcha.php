@@ -1,6 +1,6 @@
 <?php 
 	
-	namespace Xiaochi;
+	namespace think;
 
 	#封装验证码类
 	class Captcha{
