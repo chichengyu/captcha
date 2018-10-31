@@ -1,5 +1,5 @@
 {
-    "name": "packagist/captcha",
+    "name": "think/captcha",
     "type": "library",
     "license": "MIT",
     "authors": [
